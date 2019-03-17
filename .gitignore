@@ -1,0 +1,4 @@
+#node moduels
+node_modules/
+#password file
+password.js
